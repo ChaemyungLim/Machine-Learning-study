@@ -1,2 +1,2 @@
-# ML
-2022 summer KUBIG ML study
+# KUBIG Machine Learning study
+KUBIG Machine Learning study
